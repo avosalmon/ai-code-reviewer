@@ -1,3 +1,5 @@
 *
 !public/
 !.gitignore
+!coding-guideline.md
+!DocumentController.php
